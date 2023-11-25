@@ -1,0 +1,68 @@
+[
+  {
+    "text": "Que la Force soit avec toi. - Star Wars",
+    "priority": 4
+  },
+  {
+    "text": "Je suis Iron Man. - Iron Man",
+    "priority": 5
+  },
+  {
+    "text": "Vers l'infini et au-delà ! - Toy Story",
+    "priority": 4
+  },
+  {
+    "text": "Je reviendrai. - Terminator",
+    "priority": 3
+  },
+  {
+    "text": "Pourquoi si sérieux ? - The Dark Knight",
+    "priority": 2
+  },
+  {
+    "text": "Non, je suis ton père. - Star Wars",
+    "priority": 3
+  },
+  {
+    "text": "Cirer, polir. - Karate Kid",
+    "priority": 3
+  },
+  {
+    "text": "Je suis le roi du monde ! - Titanic",
+    "priority": 5
+  },
+  {
+    "text": "Houston, on a un problème. - Apollo 13",
+    "priority": 4
+  },
+  {
+    "text": "La vie, c'est comme une boîte de chocolats. - Forrest Gump",
+    "priority": 2
+  },
+  {
+    "text": "Je vois des gens qui sont morts. - The Sixth Sense",
+    "priority": 1
+  },
+  {
+    "text": "Tu ne peux pas gérer la vérité ! - A Few Good Men",
+    "priority": 3
+  },
+  {
+    "text": "Garde tes amis près de toi, mais tes ennemis encore plus près. - The Godfather II",
+    "priority": 4
+  },
+  {
+    "text": "J'ai le besoin de vitesse ! - Top Gun",
+    "priority": 5
+  },
+  {
+    "text": "Continue à nager. - Finding Nemo",
+    "priority": 2
+  },
+  {
+    "text": "Je suis Groot. - Guardians of the Galaxy",
+    "priority": 0
+  }
+]
+
+
