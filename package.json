@@ -7,7 +7,7 @@
     "typecheck": "tsc --noEmit",
     "build": "rm -rf dist && tsc",
     "start": "npm run db:migrate && node dist/server.js",
-    "start:watch": "concurrently \"npm run db:migrate && tsc --watch\" \"node dist/server.js\"",
+    "watch": "npm run db:migrate && tsc --watch",
     "db:generate": "drizzle-kit generate:sqlite && npm run db:migrate",
     "db:migrate": "npm run build && node dist/db/migrate.js",
     "test": "echo \"Error: no test specified\" && exit 1"
